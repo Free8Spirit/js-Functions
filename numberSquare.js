@@ -1,4 +1,4 @@
-//Modified by Vert, David   9/7/2018
+//Modified by Vert, David   9/10/2018
 
 // Square the given number x
 function square1(x) {

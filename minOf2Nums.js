@@ -1,4 +1,4 @@
-//Modified by Vert, David
+//Modified by Vert, David	9/10/2018
 
 function min(x, y) {
     if (x > y) {
